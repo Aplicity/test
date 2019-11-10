@@ -63,7 +63,7 @@ Y_pred = clf.predict(X)
 
 * Naïve Bayes -- accuracy socre:0.951342423131213
 
-![](https://github.com/Aplicity/test/blob/master/images/Naïve Bayes_ROC_curve%26AUC.png)
+![](https://github.com/Aplicity/test/blob/master/images/Naive_Bayes_ROC_curve%26AUC.png)
 
 * Decision Tree -- accuracy socre:0.9090183559457302
 
