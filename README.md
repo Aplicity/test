@@ -73,4 +73,7 @@ Y_pred = clf.predict(X)
 
 ![](https://github.com/Aplicity/test/blob/master/images/SVM_ROC_curve%26AUC.png)
 
+By comparing AUC, we can find that the robust ordering of the model is: 
+
+BPNetwork >> Decision Tree >> Naive Bayes >> KNN >> SVM
 
