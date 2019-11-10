@@ -54,13 +54,18 @@ Y_pred = clf.predict(X)
 
 ## Result analysis
 * KNN --accuracy score:0.89465
+![](https://github.com/Aplicity/test/blob/master/images/KNN_ROC_curve%26AUC.png)
 
 * BPnetwork --accuracy socre:0.9449321628092577
+![](https://github.com/Aplicity/test/blob/master/images/Perceptron_ROC_curve%26AUC.png)
 
 * Naïve Bayes -- accuracy socre:0.951342423131213
+![](https://github.com/Aplicity/test/blob/master/images/Naïve Bayes_ROC_curve%26AUC.png)
 
 * Decision Tree -- accuracy socre:0.9090183559457302
+![](https://github.com/Aplicity/test/blob/master/images/Decesion_Tree_ROC_curve%26AUC.png)
 
 * SVM ---- accuracy socre:0.8810853950518756
+![](https://github.com/Aplicity/test/blob/master/images/SVM_ROC_curve%26AUC.png)
 
 
